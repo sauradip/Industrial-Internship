@@ -1,5 +1,6 @@
 
-// ********* Code Modified by Sauradip **********
+// ********* Code Created by Sauradip Nag **********
+// This is a Sample of Angular.js Code I worked on in ApnaStudy Technologies Pvt.Ltd
 
 
 (function () {
